@@ -1,2 +1,2 @@
 # django-practice
-there may be errors in the code. use at your own risk author of the code Aidas Bendoraitis Jake Кronika
+there may be errors in the code! code taken from the book. author Aidas Bendoraitis Jake Кronika.
